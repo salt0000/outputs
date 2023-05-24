@@ -1,2 +1,5 @@
-# outputs
-Output what i have learned
+# SSH
+Secure Shellの略。  
+リモートコンピュータと通信するためのプロトコル。  
+公開鍵と秘密鍵を使って暗号化して通信する。  
+従来のtelnetなどでは平文で通信を行っていた。
