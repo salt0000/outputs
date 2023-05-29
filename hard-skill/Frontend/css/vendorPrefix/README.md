@@ -1,0 +1,2 @@
+# vendor prefix
+まだブラウザが対応していないcssの機能でもvendor prefixをつけることによって使えるようになる
